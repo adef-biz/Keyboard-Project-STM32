@@ -544,7 +544,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Keyboard PCB STM32.net",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
